@@ -6,7 +6,7 @@ const router = useRouter();
 const auth = useAuthStore();
 
 async function logout() {
-  await auth.logoutRemote();
+  await auth.logout();
   router.push('/login');
 }
 </script>
