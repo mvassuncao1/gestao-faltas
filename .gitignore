@@ -3,6 +3,17 @@
 /node_modules
 /build
 /tmp
+/backend/dist
+/backend/node_modules
+/backend/build
+/backend/tmp
+/backend/.vscode
+
+/front/dist
+/front/node_modules
+/front/build
+/front/tmp
+/front/.vscode
 
 # Logs
 logs
